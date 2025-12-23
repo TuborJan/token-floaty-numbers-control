@@ -14,12 +14,14 @@
       "flags": {}
     }
   ],
-  "dependencies": [
-    {
-      "name": "lib-wrapper",
-      "type": "module"
-    }
-  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      }
+    ]
+  },
   "esmodules": [
     "scripts/module.js"
   ],
