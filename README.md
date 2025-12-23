@@ -4,8 +4,8 @@ Allows you to control who can see floating damage and healing numbers near token
 ## Example: Healing numbers hidden for players
 GMView
 
-![GMView](assets/GMView.gif)
+![GMView](Assets/GMView.gif)
 
 PlayerView
 
-![PlayerView](assets/PlayerView.gif)
+![PlayerView](Assets/PlayerView.gif)
