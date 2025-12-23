@@ -1,0 +1,26 @@
+{
+  "id": "token-floaty-numbers-control",
+  "title": "Token Floaty Numbers Control",
+  "description": "<p>Allows you to control who can see floating damage and healing numbers near tokens, and selectively hide damage or healing values for different users.</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "authors": [
+    {
+      "name": "TuborJan",
+      "discord": "tuborjan",
+      "flags": {}
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "lib-wrapper",
+      "type": "module"
+    }
+  ],
+  "esmodules": [
+    "scripts/module.js"
+  ]
+}

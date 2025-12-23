@@ -1,0 +1,1 @@
+Allows you to control who can see floating damage and healing numbers near tokens, and selectively hide damage or healing values for different users.
